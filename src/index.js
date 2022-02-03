@@ -8,10 +8,7 @@ function getData() {
     .then((data) => {
       const randomNumber = Math.floor(Math.random() * data.length);
       console.log(randomNumber);
-
-      //console.log(data);
       const name = data[randomNumber].name;
-      //console.log(name);
       burgerDisplay.innerHTML = name;
     });
 }
