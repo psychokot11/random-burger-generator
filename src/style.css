@@ -1,0 +1,26 @@
+body {
+  background-color: aquamarine;
+}
+
+img {
+  max-width: 30%;
+  border-radius: 90%;
+  display: block;
+  margin: 40px auto;
+}
+
+.name-field {
+  background-color: white;
+  color: #daa2b7;
+  font-family: fantasy;
+  font-size: 42px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  max-width: 25%;
+}
