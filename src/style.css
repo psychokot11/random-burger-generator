@@ -32,7 +32,7 @@ img:hover {
 @media screen and (max-width: 600px) {
   .name-field {
     font-size: 32px;
-    max-width: 25%;
+    max-width: 80%;
   }
 
   img {
